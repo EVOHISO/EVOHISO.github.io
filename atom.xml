@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://EVOHISO.github.io</id>
-    <title>Jason&apos;s Chocolates</title>
-    <updated>2021-03-04T09:28:57.024Z</updated>
+    <title>Chocolates</title>
+    <updated>2021-03-04T09:31:13.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://EVOHISO.github.io"/>
     <link rel="self" href="https://EVOHISO.github.io/atom.xml"/>
     <subtitle>Jason&apos;s life, sharing &amp; collection</subtitle>
     <logo>https://EVOHISO.github.io/images/avatar.png</logo>
     <icon>https://EVOHISO.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Jason&apos;s Chocolates</rights>
+    <rights>All rights reserved 2021, Chocolates</rights>
     <entry>
         <title type="html"><![CDATA[Hachintosh装机小记]]></title>
         <id>https://EVOHISO.github.io/post/hachintosh-zhuang-ji-xiao-ji/</id>
