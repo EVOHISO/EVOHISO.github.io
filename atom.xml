@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://EVOHISO.github.io</id>
     <title>Chocolates</title>
-    <updated>2021-03-04T09:32:19.080Z</updated>
+    <updated>2021-05-23T08:10:43.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://EVOHISO.github.io"/>
     <link rel="self" href="https://EVOHISO.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://EVOHISO.github.io/images/avatar.png</logo>
     <icon>https://EVOHISO.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Chocolates</rights>
+    <entry>
+        <title type="html"><![CDATA[#集邮 不值钱的花纸头]]></title>
+        <id>https://EVOHISO.github.io/post/ji-you-bu-zhi-qian-de-hua-zhi-tou/</id>
+        <link href="https://EVOHISO.github.io/post/ji-you-bu-zhi-qian-de-hua-zhi-tou/">
+        </link>
+        <updated>2021-05-23T08:07:23.000Z</updated>
+        <content type="html"><![CDATA[<p>国内的邮票已经玩不起了，清朝的太贵，民国的也不便宜，新中国成立后的纪，特，普也都让人望而却步，新票怎么想都觉得太韭菜了，所以只能挑一些主题，随便玩玩了。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hachintosh装机小记]]></title>
         <id>https://EVOHISO.github.io/post/hachintosh-zhuang-ji-xiao-ji/</id>
