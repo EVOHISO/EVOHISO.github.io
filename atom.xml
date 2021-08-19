@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://EVOHISO.github.io</id>
     <title>Chocolates</title>
-    <updated>2021-08-19T08:47:15.511Z</updated>
+    <updated>2021-08-19T08:54:55.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://EVOHISO.github.io"/>
     <link rel="self" href="https://EVOHISO.github.io/atom.xml"/>
@@ -53,6 +53,10 @@
 <h4 id="样式楷体字机盖2002010">样式：楷体字机盖，200(20*10)</h4>
 <h4 id="印刷公司北京财政部印刷局-4">印刷公司：北京财政部印刷局</h4>
 <figure data-type="image" tabindex="4"><img src="https://EVOHISO.github.io/post-images/1629362264247.jpg" alt="" loading="lazy"></figure>
+<h2 id="参考">参考</h2>
+<ul>
+<li>中国邮票目录 http://chinesestamps.info/</li>
+</ul>
 ]]></content>
     </entry>
     <entry>
